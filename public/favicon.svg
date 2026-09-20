@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#0A0909" />
+  <rect x="3.5" y="3.5" width="57" height="57" fill="none" stroke="#C6A15B" stroke-width="1.5" />
+  <text
+    x="32"
+    y="41"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="26"
+    letter-spacing="1"
+    fill="#E6CF9C"
+  >MN</text>
+</svg>
